@@ -5,7 +5,7 @@
 * [Setup](#setup)
 
 ## General info
-A scalable web application for medical chat and video assistant 
+A scalable web application for various service offered  by medical team chat  video  and sms assistant in case of emergency.
 	
 ## Technologies
 Project is created with:
