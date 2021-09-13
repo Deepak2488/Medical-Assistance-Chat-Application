@@ -5,13 +5,16 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+A scalable web application for medical chat and video assistant 
 	
 ## Technologies
 Project is created with:
 * React
 * Node
-* Twilio
+* Express
+* OAuth
+* Twilio SMS notification
+* Mongodb
 	
 ## Setup
 To run this project, install it locally using npm:
